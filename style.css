@@ -1,0 +1,36 @@
+body{
+    align-items: center;
+    font-family: monospace;
+    font-weight: 700;
+}
+
+.firsLs{
+    margin-bottom: 10px;
+}
+.secondls{
+    margin-bottom: 10px;
+}
+.thirdLs{
+    margin-bottom: 10px;
+}
+.th{
+    font-weight: 900;
+   
+}
+
+.error{
+pad: 10px;
+color: crimson;
+border: 1px dotted crimson;
+}
+
+.succes{
+    pad: 10px;
+    color: limegreen;
+    border: 1px dotted limegreen ;
+}
+.fourth{
+    margin-bottom: 10px;
+}
+
+
