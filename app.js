@@ -127,11 +127,11 @@ console.log(title.nextElementSibing.parentElement.children);
 */
 
 //7 - video 
-const ul = document.querySelector('ul')
+//const ul = document.querySelector('ul')
 
-const li = document.createElement('li')
-li.textContent = 'something new text'
-ul.appendChild(li)
+//const li = document.createElement('li')
+//li.textContent = 'something new text'
+//ul.appendChild(li)
 
 //append - top 
 //prepend - bottom
